@@ -1,4 +1,15 @@
 
-G
-java:S1602",Remove useless curly braces around statement(¸éâçıÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(ùÄûšşÿÿÿÿ
+d
+java:S1192"GDefine a constant instead of duplicating this literal "Gautam" 4 times.(«í÷8¦Øªä1
+z
+java:S1192*"]Define a constant instead of duplicating this literal "Saved Student Generated id: " 4 times.(¾‘¾‡8§Øªä1
+w
+java:S1192"ZDefine a constant instead of duplicating this literal "roshangautam045@gmail.com" 4 times.(«í÷8§Øªä1
+N
+java:S1602",Remove useless curly braces around statement(¸éâçıÿÿÿÿ8Î£ªä1
+G	java:S106"+Replace this use of System.out by a logger.(åØ8ºØªä1
+L	java:S106#"+Replace this use of System.out by a logger.(Ø¤Åşÿÿÿÿ8¼Øªä1
+G	java:S106*"+Replace this use of System.out by a logger.(¾‘¾‡8½Øªä1
+G	java:S106+"+Replace this use of System.out by a logger.(È‚¿ª8¾Øªä1
+G	java:S106,"+Replace this use of System.out by a logger.(ğîÖ·8¾Øªä1
+L	java:S106-"+Replace this use of System.out by a logger.(Ğüò²øÿÿÿÿ8¿Øªä1
