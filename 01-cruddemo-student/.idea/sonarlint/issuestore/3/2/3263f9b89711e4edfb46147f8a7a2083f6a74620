@@ -1,0 +1,47 @@
+
+e
+java:S1192"GDefine a constant instead of duplicating this literal "Gautam" 4 times.(«í÷8áƒöä1
+{
+java:S1192œ"]Define a constant instead of duplicating this literal "Saved Student Generated id: " 4 times.(¾‘¾‡8âƒöä1
+N
+java:S1602",Remove useless curly braces around statement(¸éâçıÿÿÿÿ8Ó¥€÷ä1
+]	java:S125"<This block of commented-out lines of code should be removed.(şÑüØüÿÿÿÿ8øƒöä1
+X	java:S125"<This block of commented-out lines of code should be removed.(±¤ğ8øƒöä1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÚòÀ¬úÿÿÿÿ8øƒöä1
+]	java:S125"<This block of commented-out lines of code should be removed.(ö×Ñœşÿÿÿÿ8øƒöä1
+X	java:S125!"<This block of commented-out lines of code should be removed.(«ˆ¸Á8¯¦ öä1
+]	java:S125#"<This block of commented-out lines of code should be removed.(•”ÑÎÿÿÿÿÿ8æôÿöä1
+F	java:S106,"+Replace this use of System.out by a logger.(²†¾8ùƒöä1
+L	java:S106."+Replace this use of System.out by a logger.(ö¹Øûÿÿÿÿ8úƒöä1
+G	java:S1068"+Replace this use of System.out by a logger.(÷‰à·8úƒöä1
+G	java:S106D"+Replace this use of System.out by a logger.(–àïú8üƒöä1
+G	java:S106H"+Replace this use of System.out by a logger.(·§¬µ8ıƒöä1
+G	java:S106L"+Replace this use of System.out by a logger.(Ùè¨Ê8şƒöä1
+H
+java:S1481["&Remove this unused "x" local variable.(¢ã¤²ıÿÿÿÿ8ûƒöä1
+G	java:S106\"+Replace this use of System.out by a logger.(ŒŸç8şƒöä1
+G	java:S106j"+Replace this use of System.out by a logger.(ıöÑ¾8ÿƒöä1
+G	java:S106q"+Replace this use of System.out by a logger.(Œ—Å8ÿƒöä1
+L	java:S106u"+Replace this use of System.out by a logger.(üıÔ¿ûÿÿÿÿ8€‘ƒöä1
+L	java:S106z"+Replace this use of System.out by a logger.(Ïå¬ûıÿÿÿÿ8‘ƒöä1
+L	java:S106}"+Replace this use of System.out by a logger.(ı’¢¶ÿÿÿÿÿ8‚‘ƒöä1
+G	java:S106"+Replace this use of System.out by a logger.(¿ªƒ8ƒ‘ƒöä1
+H	java:S106Œ"+Replace this use of System.out by a logger.(åØ8ƒ‘ƒöä1
+M	java:S106•"+Replace this use of System.out by a logger.(Ø¤Åşÿÿÿÿ8„‘ƒöä1
+X	java:S125‘"<This block of commented-out lines of code should be removed.(˜û˜J8‚‘ƒöä1
+H	java:S106œ"+Replace this use of System.out by a logger.(¾‘¾‡8„‘ƒöä1
+H	java:S106"+Replace this use of System.out by a logger.(È‚¿ª8é†öä1
+H	java:S106"+Replace this use of System.out by a logger.(ğîÖ·8½¤£öä1
+M	java:S106Ÿ"+Replace this use of System.out by a logger.(Ğüò²øÿÿÿÿ8ßò¤öä1
+S
+java:S1144+"6Remove this unused private "deleteAllStudents" method.(Çş±Ÿ8ôôÿöä1
+T
+java:S11446"2Remove this unused private "deleteStudent" method.(¢‘£¸şÿÿÿÿ8Â¦ öä1
+N
+java:S1144@"2Remove this unused private "updateStudent" method.(ÓŒZ8…‘ƒöä1
+R
+java:S1144U"5Remove this unused private "queryForStudents" method.(ˆòÓÇ8…‘ƒöä1
+[
+java:S1144d"?Remove this unused private "queryForStudentsByLastName" method.(Ê‰8…‘ƒöä1
+M
+java:S1144o"0Remove this unused private "readStudent" method.(ûÂßâ8…‘ƒöä1
